@@ -1,24 +1,11 @@
-# calculator
+# Projeto Calculadura com Vue
 
-## Project setup
-```
-npm install
-```
+Este projeto foi desenvolvido com base no curso  *__Web Moderno com JavaScript 2020__* da [Cod3r](https://www.cod3r.com.br). 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Esta aplicação consiste em um uma calculadora virutal, onde é possível realizar operações básicas como soma, muliplicação e divisão. É possível inserir números flutuantes (com .) e limpar o display da calculadora através do botão AC
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Para a construção da aplicação, foram utilizadas Javascript, CSS, HTML e Vue.
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Imagem da calculadora
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![calculadoravue](https://user-images.githubusercontent.com/54365007/80269096-19ce2700-8683-11ea-818f-376c3f39203b.jpg)
